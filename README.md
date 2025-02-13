@@ -17,3 +17,4 @@ python app/main.py
 ### 3. Swagger document
 
 http://localhost:8000/docs
+# gg-merchant-BE
